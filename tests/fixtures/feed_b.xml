@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Carbon Brief</title>
+    <item>
+      <title>COP31: climate finance pledges fall 70%</title>
+      <link>https://www.carbonbrief.org/cop31-climate-finance-pledges</link>
+      <pubDate>Wed, 11 Nov 2026 14:15:00 +0000</pubDate>
+      <description>Analysis of pledges announced at the summit.</description>
+    </item>
+    <item>
+      <title>Drought pushes water rationing across the region</title>
+      <link>https://www.carbonbrief.org/drought-water-rationing</link>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Reservoirs are at record lows after a dry winter.</description>
+    </item>
+  </channel>
+</rss>

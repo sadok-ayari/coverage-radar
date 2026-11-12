@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>UN News</title>
+    <item>
+      <title>Climate finance pledges fall 70% as countries meet at COP31</title>
+      <link>https://news.un.org/story/climate-finance-falls?utm_source=rss</link>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Pledges for climate finance have fallen sharply, a new analysis shows.</description>
+      <category>Climate</category>
+    </item>
+    <item>
+      <title>Building collapse in Brooklyn kills two</title>
+      <link>https://news.un.org/story/brooklyn</link>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+      <description>A three-storey building collapsed overnight.</description>
+    </item>
+    <item>
+      <title>Solar and wind capacity hits record as grid investment rises</title>
+      <link>https://news.un.org/story/solar-record</link>
+      <pubDate>Thu, 12 Nov 2026 07:30:00 +0000</pubDate>
+      <description>Renewable capacity reached a record level this year.</description>
+      <category>Energy</category>
+    </item>
+  </channel>
+</rss>

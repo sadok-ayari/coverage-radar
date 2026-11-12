@@ -1,0 +1,77 @@
+{
+  "title": "Coverage brief",
+  "window_hours": 48,
+  "themes": [
+    {
+      "name": "climate policy",
+      "keywords": [
+        "climate",
+        "cop30",
+        "cop31",
+        "emissions",
+        "net zero",
+        "decarbonisation",
+        "decarbonization"
+      ]
+    },
+    {
+      "name": "climate finance",
+      "keywords": [
+        "climate finance",
+        "green bond",
+        "loss and damage",
+        "adaptation fund",
+        "carbon market"
+      ]
+    },
+    {
+      "name": "energy transition",
+      "keywords": [
+        "renewable",
+        "solar",
+        "wind power",
+        "hydrogen",
+        "fossil fuel",
+        "oil",
+        "gas"
+      ]
+    },
+    {
+      "name": "nature and water",
+      "keywords": [
+        "biodiversity",
+        "deforestation",
+        "water",
+        "drought",
+        "flood",
+        "mangrove",
+        "desertification"
+      ]
+    },
+    {
+      "name": "development finance",
+      "keywords": [
+        "world bank",
+        "imf",
+        "development bank",
+        "aid",
+        "debt",
+        "investment"
+      ]
+    }
+  ],
+  "weights": {
+    "theme": 35,
+    "breadth": 25,
+    "novelty": 10,
+    "recency_24h": 20,
+    "recency_48h": 12,
+    "recency_old": 3,
+    "recency_unknown": 5
+  },
+  "thresholds": {
+    "lead": 60,
+    "brief": 45
+  },
+  "require_theme_for_brief": true
+}

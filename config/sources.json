@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "name": "un-news",
+      "type": "rss",
+      "outlet": "UN News",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "tier": 1,
+      "limit": 60,
+      "enabled": true
+    },
+    {
+      "name": "reliefweb",
+      "type": "rss",
+      "outlet": "ReliefWeb",
+      "url": "https://reliefweb.int/updates/rss.xml",
+      "tier": 1,
+      "limit": 40,
+      "enabled": true
+    },
+    {
+      "name": "carbon-brief",
+      "type": "rss",
+      "outlet": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/feed/",
+      "tier": 2,
+      "limit": 40,
+      "enabled": true
+    },
+    {
+      "name": "climate-home-news",
+      "type": "rss",
+      "outlet": "Climate Home News",
+      "url": "https://www.climatechangenews.com/feed/",
+      "tier": 2,
+      "limit": 40,
+      "enabled": true
+    },
+    {
+      "name": "inside-climate-news",
+      "type": "rss",
+      "outlet": "Inside Climate News",
+      "url": "https://insideclimatenews.org/feed/",
+      "tier": 2,
+      "limit": 20,
+      "enabled": true
+    },
+    {
+      "name": "guardian-climate",
+      "type": "rss",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/environment/climate-crisis/rss",
+      "tier": 2,
+      "limit": 20,
+      "enabled": true
+    },
+    {
+      "name": "al-jazeera-english",
+      "type": "rss",
+      "outlet": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "tier": 3,
+      "limit": 30,
+      "enabled": true
+    },
+    {
+      "name": "gdelt-climate-finance",
+      "type": "gdelt",
+      "query": "\"climate finance\"",
+      "timespan": "2d",
+      "tier": 3,
+      "limit": 50,
+      "enabled": false
+    }
+  ]
+}
